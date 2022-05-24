@@ -9,6 +9,8 @@ for i in range(1, len(score) -1):
         if score[i] < lowest:
             lowest = score[i]
 
+    elif score[i] < highest
+
 
 print(highest)
 print(lowest)
