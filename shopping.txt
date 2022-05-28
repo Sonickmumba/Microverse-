@@ -8,3 +8,5 @@ cucumbers
 Apples
 avacodos
 peas
+Oranges
+Rundos
